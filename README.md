@@ -4,3 +4,4 @@
 2)Filter task
 3)delete tasks
 4)also it allows us to persist them to local storage so that they don't disappear
+5)It is multi Scalable application which can be further designe for better UX
